@@ -32,7 +32,7 @@ Supports **name, email, phone, date, time, and message collection** with validat
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/pratut/interview_task.git
+git clone https://github.com/pratut/interview_task_2.git
 cd interview_task
 ```
 
