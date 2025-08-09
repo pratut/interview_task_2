@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ▶️ Run the application
 ```
-uvicorn index:app --reload
+uvicorn main:app --reload
 ```
 
 ### API Endpoints
